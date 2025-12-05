@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Architect",
+  "description": "A physics-accurate Newtonian gravity simulation. Design your own solar systems, simulate orbital mechanics in real-time, and analyze stability with Gemini AI.",
+  "requestFramePermissions": []
+}
